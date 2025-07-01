@@ -6,6 +6,9 @@ h5 {margin: 5px 0;
 a {color: #17a2b8;
     text-decoration: none;
     margin: 0 10px;
+    border: 3px black;
+    border-radius: 10px;
+    padding: 20px;
     transition: color 0.3s ease;}
 
 a:hover {color: #138496;}
