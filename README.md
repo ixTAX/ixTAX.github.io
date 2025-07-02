@@ -1,4 +1,4 @@
-This website is about me and what have I accomplished
+This website is about me and what have I accomplished 
 
 At first you have 3 choices
 ![Screenshot 2025-07-02 183337](https://github.com/user-attachments/assets/ab52f5bb-16da-4a7f-9499-b6494105b75f)
