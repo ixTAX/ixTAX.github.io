@@ -12,7 +12,7 @@ At first you have 3 choices
 3- to look at my skills
 ![Screenshot 2025-07-02 183925](https://github.com/user-attachments/assets/253c9651-db97-47c2-b3ec-2523c3a4d27e)
 
-#nd you can always check my social media at the footer (Github - Linkedin - Email)
+and you can always check my social media at the footer (Github - Linkedin - Email)
 ![Screenshot 2025-07-02 183347](https://github.com/user-attachments/assets/de01544b-e07d-4e16-916a-0eda208a4288)
 
 in my background you can learn more about me and you can choose to go back to the previous page
